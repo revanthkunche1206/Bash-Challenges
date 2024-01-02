@@ -92,3 +92,30 @@
 ( b.) Print the lines containing the word “FILE” (Case sensitive) in the file “grepman.txt”
 
 
+![Screenshot from 2024-01-02 21-22-30](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/95377b85-397e-40ea-a0d3-c963b07745fa)
+
+![Screenshot from 2024-01-02 21-22-53](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/9afb9092-70bc-4a92-9911-23f9d4a564fd)
+
+![Screenshot from 2024-01-02 21-23-25](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/f6767436-4e70-42ab-a597-b4eb86fa9fbf)
+
+![Screenshot from 2024-01-02 21-23-57](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/cd539ae8-ce71-4550-9837-ae92143357ec)
+
+![Screenshot from 2024-01-02 21-24-23](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/2159f5aa-8e19-42df-9a52-0b945e09f020)
+
+![Screenshot from 2024-01-02 21-24-42](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/93ec9ca6-18a1-4559-9151-3ab11eb08d05)
+
+![Screenshot from 2024-01-02 21-24-57](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/72f000aa-a7fc-4b73-9be7-b796b7928fb7)
+
+![Screenshot from 2024-01-02 21-25-11](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/4c364618-afe1-4e4a-a928-11054277e989)
+
+![Screenshot from 2024-01-02 21-25-22](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/666e8e9f-6c3d-4b3e-86a4-a019bc875dad)
+
+
+
+
+
+
+
+
+
+
