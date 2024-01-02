@@ -111,6 +111,14 @@
 ![Screenshot from 2024-01-02 21-25-22](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/666e8e9f-6c3d-4b3e-86a4-a019bc875dad)
 
 
+**9.**
+
+( a.) Go to directory a and remove the directory b with a single command
+
+( b.) Remove the files starting with the word “file” with a single
+
+
+![Screenshot from 2024-01-02 21-39-52](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/372b09a1-da40-4bd6-b23a-12d3071e4b02)
 
 
 
