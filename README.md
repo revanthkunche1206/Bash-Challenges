@@ -120,6 +120,22 @@
 
 ![Screenshot from 2024-01-02 21-39-52](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/372b09a1-da40-4bd6-b23a-12d3071e4b02)
 
+**10**.
+
+( a.) Go to https://blog.bi0s.in/  and download the logo.png image using wget
+
+(b.) Do the same with python script (Hint : request library)
+
+(c.) Also, display the metadata of the png.
+
+![Screenshot from 2024-01-07 08-19-24](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/27f5c21e-d5f1-424a-8b24-362d3d48c999)
+
+![Screenshot from 2024-01-07 07-29-49](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/0686a57b-6e9e-411d-b5d3-9607220c61e0)
+
+![Screenshot from 2024-01-07 07-36-02](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/3a89e535-8680-43ed-b92f-8052526f4f3c)
+
+![Screenshot from 2024-01-07 07-36-24](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/774a3c88-181b-405e-b4b0-2f4398bfab26)
+
 
 
 
