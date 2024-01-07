@@ -136,7 +136,31 @@
 
 ![Screenshot from 2024-01-07 07-36-24](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/774a3c88-181b-405e-b4b0-2f4398bfab26)
 
+**11.**
 
+( a.) Use traceroute on google.com and find list of the IP addresses and hostnames between you and  google.com
+
+( b.) Find  Subdomains,ip addresses of google.com using nslookup command
+
+![Screenshot from 2024-01-07 08-27-12](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/03779f24-a930-450b-82a6-e2c6297eae94)
+
+![Screenshot from 2024-01-07 08-30-55](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/5eac74a2-3e47-43f6-a70b-ae343fbaaa22)
+
+**12.**
+
+Start a web server on port 8080 with python command  (In any directory and access the files in web browser )
+
+![Screenshot from 2024-01-07 15-29-39](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/1db18798-e474-4f73-833c-bdd0db6d6188)
+
+![Screenshot from 2024-01-07 15-23-03](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/7a60136d-3e78-46ce-a3fb-c360fcae6860)
+
+![Screenshot from 2024-01-07 15-23-13](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/fc2c4a15-5078-45e4-990a-51cc4ae4583e)
+
+![Screenshot from 2024-01-07 15-23-45](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/6fa35132-6899-4e5d-9b43-b95e60079b82)
+
+![Screenshot from 2024-01-07 15-28-36](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/3330857a-c830-44a2-aa58-3048264e7915)
+
+![Screenshot from 2024-01-07 15-29-10](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/bbcb1e9b-30aa-49c8-943c-240cd137a61d)
 
 
 
