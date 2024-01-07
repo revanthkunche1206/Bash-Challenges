@@ -163,6 +163,21 @@ Start a web server on port 8080 with python command  (In any directory and acces
 ![Screenshot from 2024-01-07 15-29-10](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/bbcb1e9b-30aa-49c8-943c-240cd137a61d)
 
 
+**13.**
+
+( a.) Learn about nmap and use that scanner to scan your own machine
+
+( b.) Go to https://tryhackme.com/room/furthernmap and get ip address and
+
+Scan the ip address with (-sS,-sV,-A) in your terminal include all ports
+
+![Screenshot from 2024-01-07 21-24-01](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/c6f464ef-5083-46cf-aa39-953161c122b9)
+
+![Screenshot from 2024-01-07 22-05-38](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/8beb3133-e77f-4bc4-9816-cac7f13a386d)
+
+![Screenshot from 2024-01-07 22-10-11](https://github.com/revanthkunche1206/Bash-Challenges/assets/155340253/ab2ad836-54ed-43f4-b6b9-6e097cdb2892)
+
+
 
 
 
